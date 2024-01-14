@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.238a0237.css",
+    "main.js": "/static/js/main.939e5928.js",
+    "static/media/devOps.png": "/static/media/devOps.db899f777d5ee21f4062.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/docker.png": "/static/media/docker.afe78de42c9240b41a19.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/jenkins.png": "/static/media/jenkins.94566759a5786a8c8f02.png",
+    "static/media/terraform.png": "/static/media/terraform.77455f3c25c91f81216c.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/logo1.png": "/static/media/logo1.28a8449952c644eea666.png",
+    "index.html": "/index.html",
+    "main.238a0237.css.map": "/static/css/main.238a0237.css.map",
+    "main.939e5928.js.map": "/static/js/main.939e5928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238a0237.css",
+    "static/js/main.939e5928.js"
+  ]
+}
